@@ -1,6 +1,8 @@
 **WELCOME TO MY GITHUB PROFILE**
-Name-Safal
+ Hey I'm Safal and i'm 15.
+
 Pronouns-He/Him
+
 Currently learning-C++ and Python
 
 <!---
