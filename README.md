@@ -4,7 +4,6 @@ Age-16
 
 Pronouns-He/Him
 
-Currently learning-Python Hacking tools
 
 
 <!---
