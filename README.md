@@ -2,6 +2,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/safal808/count.svg?"  />
+</div>
+
+###
+
 <h3 align="left">Languages and Tools</h3>
 
 ###
@@ -72,11 +78,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safal808&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=safal808&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/safal808/safal808/output/snake.svg" alt="Snake animation" />
 
 ###
