@@ -51,7 +51,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/safal_808/" target="_blank">
+  <a href="https://www.instagram.com/safal.808/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/users/568695251297107970" target="_blank">
